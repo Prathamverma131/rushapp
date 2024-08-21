@@ -1,0 +1,12 @@
+.container {
+  border: 1px solid red;
+}
+
+.imgContainer {
+  height: 2;
+}
+
+img {
+  height: 80px;
+  width: 100px;
+}
